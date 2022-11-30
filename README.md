@@ -1,3 +1,10 @@
+STEPS FOR RUNNING APP
+
+1. clone the repository
+2. type npm i (make sure you are in root directory)
+3. npm start
+4. done
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
